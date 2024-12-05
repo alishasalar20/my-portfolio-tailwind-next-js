@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
-import "boxicons/css/boxicons.min.css";
-// import TypingEffect from "@/components/Typing";
+
+import 'boxicons/css/boxicons.min.css';
 import About1 from "@/components/About";
 import Project1 from "@/components/Projects";
 import Skills1 from "@/components/Skills";
